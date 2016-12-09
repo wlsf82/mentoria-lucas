@@ -1,0 +1,14 @@
+{
+  "name": "mentoria-lucas",
+  "version": "1.0.0",
+  "description": "mentoria",
+  "main": "protractor.conf.js",
+  "scripts": {
+    "test": "./node_modules/.bin/protractor"
+  },
+  "author": "Walmyr (wlsf82@gmail.com)",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "protractor": "^4.0.13"
+  }
+}
