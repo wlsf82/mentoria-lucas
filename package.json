@@ -4,7 +4,8 @@
   "description": "mentoria",
   "main": "protractor.conf.js",
   "scripts": {
-    "test": "./node_modules/.bin/protractor"
+    "test": "./node_modules/.bin/protractor",
+    "webdriver-update": "./node_modules/.bin/webdriver-manager update"
   },
   "author": "Walmyr (wlsf82@gmail.com)",
   "license": "UNLICENSED",
