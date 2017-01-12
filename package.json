@@ -10,6 +10,6 @@
   "author": "Walmyr (wlsf82@gmail.com)",
   "license": "UNLICENSED",
   "dependencies": {
-    "protractor": "^4.0.13"
+    "protractor": "^5.0.0"
   }
 }
